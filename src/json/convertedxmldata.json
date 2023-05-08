@@ -1,0 +1,30 @@
+{
+  "cars": {
+    "car": [
+      {
+        "$": {
+          "id": "1"
+        },
+        "mark": ["Audi"],
+        "model": ["A6"],
+        "color": ["Gray"]
+      },
+      {
+        "$": {
+          "id": "2"
+        },
+        "mark": ["BMW"],
+        "model": ["3-SERIES"],
+        "color": ["Red"]
+      },
+      {
+        "$": {
+          "id": "3"
+        },
+        "mark": ["Mercedes"],
+        "model": ["C-Class"],
+        "color": ["Blue"]
+      }
+    ]
+  }
+}

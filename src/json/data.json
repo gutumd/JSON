@@ -1,0 +1,18 @@
+{
+  "cars": {
+    "car": [
+      {
+        "id": 1,
+        "mark": "Audi",
+        "model": "A6",
+        "color": "cock"
+      },
+      {
+        "id": 3,
+        "mark": "Mercedes",
+        "model": "C-Class",
+        "color": "Blue"
+      }
+    ]
+  }
+}
